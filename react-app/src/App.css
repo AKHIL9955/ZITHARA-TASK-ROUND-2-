@@ -1,0 +1,72 @@
+.header{
+    text-align: center;
+    font-family: sans-serif;
+    padding-top: 10px;
+}
+.s{
+display: flex;
+justify-content: space-evenly;
+margin-top: 50px;
+margin-bottom: 25px;
+}
+
+.in{
+    width: 16%;
+}
+.btns{
+   display: flex;
+}
+.b1,.b2{
+    margin: 0px 5px;
+}
+
+ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0px 50px;
+    background-color: aquamarine;
+    
+}
+
+
+.container{
+    display: flex;
+   
+   justify-content: center; 
+   margin-top: 5px;
+   width: 900px;
+  
+   
+}
+.th{
+    
+    display: flex;
+    padding-left: 22%;
+}
+li{
+    display: flex;
+    padding: 0px 20px;
+}
+.loc{
+    padding-left: 45px;
+}
+.dat{
+    padding-left: 40px;
+}
+.tim{
+    padding-left: 35px;
+}
+.foot{
+    display: flex;
+    justify-content: center;
+   
+}
+.fbut:focus{
+    background: #e06262;
+}
+
+
+
+
+
